@@ -20,13 +20,13 @@ Before running the application, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/3laaElsadany/node-paypal-checkout.git
+   git clone https://github.com/3laaElsadany/node_paypal_checkout.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd node-paypal-checkout
+   cd node_paypal_checkout
    ```
 
 3. Install the required dependencies:
